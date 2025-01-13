@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-
+// total value
 const EffectIndex1 = () => {
 
     const [count, setCount] = useState(0)
