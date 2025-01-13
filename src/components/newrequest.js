@@ -2,7 +2,7 @@ import React from 'react'
 
 const newrequest = () => {
   return (
-    <div>newrequest some thing special total contained</div>
+    <div>newrequest some thing special total contained testing</div>
   )
 }
 
