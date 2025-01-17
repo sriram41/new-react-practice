@@ -8,11 +8,15 @@ import Index2 from './components/index2';
 import Index3 from './components/index3';
 import Index4 from './components/index4';
 import IndexFullUseState from './components/index5';
+import CallbackIndex from './components/parentcom';
+import ReduxAccount from './components/reduxaccount';
+import ReduxForm from './components/reduxform';
 
 function App() {
   return (
     <div className="App">
-      <ContextIndex />
+      <ReduxForm/>
+     <ReduxAccount />
     </div>
   );
 }
